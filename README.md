@@ -13,7 +13,7 @@ Welcome to my personal **Data Science and Machine Learning** repository! This co
 - [Resources and References](#resources-and-references)
 - [License](#license)
 
-## 📖 Introduction
+## Introduction
 
 This repository is a compilation of my self-learning journey in the field of data science and machine learning. It contains a wide range of topics, from basic statistical analysis to advanced machine learning models and techniques. 
 
@@ -23,9 +23,9 @@ This repository is a compilation of my self-learning journey in the field of dat
 - Implement projects and solve real-world problems
 - Gain hands-on experience using Python libraries like pandas, NumPy, scikit-learn, TensorFlow, and more
 
-## 📂 Project Structure
+## Project Structure
 
-## 🏁 Getting Started
+## Getting Started
 
 To run the notebooks and explore the content, follow these steps:
 
@@ -41,7 +41,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ```bash
 pip install -r requirements.txt
 ```
-## 🛠️ Requirements
+## Requirements
 To get started, you'll need:
 
 Python 3.11+
@@ -55,10 +55,10 @@ scikit-learn
 tensorflow / pytorch
 plotly
 
-## 📚 Topics Covered
+## Topics Covered
 This repository covers a wide range of data science and machine learning topics:
 
-1. **Data Analysis & Visualizatio**
+1. **Data Analysis & Visualization**
   - Exploratory Data Analysis (EDA)
   - Data cleaning and preprocessing
   - Visualization with Matplotlib, Seaborn, and Plotly
@@ -85,7 +85,7 @@ This repository covers a wide range of data science and machine learning topics:
  - Sentiment analysis on text data
  - Image classification with deep learning
 
-## 📝 Notebooks Overview
+## Notebooks Overview
 
 | Notebook | Description |
 |----------|-------------|
@@ -99,7 +99,7 @@ This repository covers a wide range of data science and machine learning topics:
 | `notebooks/predictive_maintenance/predictive_maintenance_models.ipynb` | Predictive maintenance models using time series data from ZTDF Air Force contract |
 | `notebooks/visualization/plotly_interactive_plots.ipynb` | Interactive visualizations using Plotly for data exploration |
 
-## 📚 Resources and References
+## Resources and References
 
 Here are some of the key resources and references I've found useful during my learning journey:
 
@@ -132,7 +132,7 @@ Here are some of the key resources and references I've found useful during my le
 - [Khan Academy: Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
 - [YouTube: StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer): For easy-to-understand explanations of statistical concepts
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 

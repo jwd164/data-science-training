@@ -1,4 +1,4 @@
-# Data Science and Machine Learning Learning Journey 📚🤖
+# Data Science and Machine Learning Learning Journey 📚
 
 Welcome to my personal **Data Science and Machine Learning** repository! This collection contains a variety of Jupyter Notebooks, datasets, and additional resources that I've used to teach myself the principles and applications of data science and machine learning.
 
@@ -24,6 +24,16 @@ This repository is a compilation of my self-learning journey in the field of dat
 - Gain hands-on experience using Python libraries like pandas, NumPy, scikit-learn, TensorFlow, and more
 
 ## Project Structure
+I organized this project with numerical labels on the subfolders that correspond loosely to order of learning and order of application to a real-world project.
+| Numerical Label | Description |
+|----------|-------------|
+| 01 | Basic Python packages for data science such as NumPy and Pandas |
+| 02 | Exploratory Data Analysis (EDA) and Data Visualization |
+| 03 | Statistics, Metrics, Math |
+| 04 | Data Preprocessing, Data Preparation, Feature Engineering  |
+| 05 | Machine Learning Techniques and Algorithms |
+| 06 | Additional Topics such as SHAP |
+| 09 | Real-World Application and Practice |
 
 ## Getting Started
 
@@ -103,34 +113,33 @@ This repository covers a wide range of data science and machine learning topics:
 
 Here are some of the key resources and references I've found useful during my learning journey:
 
+### Datasets ### 
+  - Kaggle: https://www.kaggle.com/
+  - Hugging Face: https://huggingface.co/
+  - Papers With Code: https://paperswithcode.com/
+  - OpenML: https://www.openml.org/
+  - UCI Machine Learning Repository: https://archive.ics.uci.edu/
+  - Awesome Public Datasets: https://github.com/awesomedata/awesom...
+  - Government Websites: https://data.gov/ 
+  - Google Dataset Search: https://datasetsearch.research.google...
+  - DataHub: https://datahub.io/
+  - Python Packages: Scikit-Learn, Tensorflow, Torchvision, Torchtext
+
 ### Books
-- [Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-- [Deep Learning with Python by François Chollet](https://www.manning.com/books/deep-learning-with-python)
+- [AI for Defense and Intelligence by Dr. Patrick Biltgen](https://www.amazon.com/AI-Defense-Intelligence-Patrick-Biltgen/dp/B0CRXHGCHB)
+
 
 ### Online Courses
 - [Coursera: Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
-- [DataCamp: Data Scientist with Python Track](https://www.datacamp.com/tracks/data-scientist-with-python)
-- [Kaggle: Intro to Machine Learning Course](https://www.kaggle.com/learn/intro-to-machine-learning)
 
 ### Research Papers
-- "A Survey of Machine Learning Algorithms" - [Research Paper](https://arxiv.org/abs/1806.04356)
-- "An Overview of Gradient Descent Optimization Algorithms" - [Research Paper](https://arxiv.org/abs/1609.04747)
-
-### Websites and Blogs
-- [Kaggle Datasets](https://www.kaggle.com/datasets): For a variety of datasets used in projects
-- [Towards Data Science](https://towardsdatascience.com/): A blog for data science tutorials and insights
-- [Stack Overflow](https://stackoverflow.com/): For troubleshooting coding issues and seeking advice
+- [Predictive Maintenance - AMCNLSTM](https://arxiv.org/abs/2109.01761)
 
 ### Tools and Libraries
 - [pandas Documentation](https://pandas.pydata.org/docs/)
 - [scikit-learn Documentation](https://scikit-learn.org/stable/user_guide.html)
 - [Plotly Documentation](https://plotly.com/python/)
 - [TensorFlow Guide](https://www.tensorflow.org/guide)
-
-### Additional Learning Resources
-- [Khan Academy: Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
-- [YouTube: StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer): For easy-to-understand explanations of statistical concepts
 
 ## License
 

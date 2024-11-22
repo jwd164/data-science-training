@@ -36,8 +36,8 @@ I organized this project with numerical labels on the subfolders that correspond
 | 09 | Real-World Application and Practice |
 
 ## Getting Started
-
-To run the notebooks and explore the content, follow these steps:
+Under Construction
+<!-- To run the notebooks and explore the content, follow these steps:
 
 1. **Clone the Repository**
 2. **Create and Activate a Virtual Environment (Python 3.11 recommended):**
@@ -50,7 +50,8 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 ```bash
 pip install -r requirements.txt
-```
+``` -->
+
 ## Requirements
 To get started, you'll need:
 
@@ -64,36 +65,6 @@ seaborn
 scikit-learn
 tensorflow / pytorch
 plotly
-
-## Topics Covered
-This repository covers a wide range of data science and machine learning topics:
-
-1. **Data Analysis & Visualization**
-  - Exploratory Data Analysis (EDA)
-  - Data cleaning and preprocessing
-  - Visualization with Matplotlib, Seaborn, and Plotly
-  - Statistics & Probability
-
-2. **Descriptive statistics**
-  - Hypothesis testing
-  - Z-scores, MAD, and IQR calculations
-  - Machine Learning
-
-3. **Supervised Learning (Linear Regression, Decision Trees, SVM, etc.)**
-  - Unsupervised Learning (Clustering, PCA)
-  - Ensemble Learning (Random Forest, Gradient Boosting)
-  - Time Series Analysis
-  - Model evaluation and hyperparameter tuning
-    
-4. **Deep Learning**
-  - Neural Networks with TensorFlow/Keras**
-  - Convolutional Neural Networks (CNNs)
-  - Recurrent Neural Networks (RNNs) and LSTM for time series
-
-5. **Applied Projects**
- - Predictive maintenance using time series data
- - Sentiment analysis on text data
- - Image classification with deep learning
 
 ## Notebooks Overview
 

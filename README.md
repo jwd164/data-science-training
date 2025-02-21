@@ -35,37 +35,6 @@ I organized this project with numerical labels on the subfolders that correspond
 | 06 | Additional Topics such as SHAP |
 | 09 | Real-World Application and Practice |
 
-## Getting Started
-Under Construction
-<!-- To run the notebooks and explore the content, follow these steps:
-
-1. **Clone the Repository**
-2. **Create and Activate a Virtual Environment (Python 3.11 recommended):**
-
-```bash
-python3.11 -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-```
-3. **Install the Required Packages:**
-
-```bash
-pip install -r requirements.txt
-``` -->
-
-## Requirements
-To get started, you'll need:
-
-Python 3.11+
-Jupyter Notebook
-Common Python packages (listed in requirements.txt), including:
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-tensorflow / pytorch
-plotly
-
 ## Notebooks Overview
 
 | Notebook | Description |

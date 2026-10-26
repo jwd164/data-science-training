@@ -1,0 +1,10 @@
+{
+    "severity": "LIKELY_UNSAFE",
+    "analysis": "`from sklearn.linear_model._base import LinearRegression` imports a Python module that is not a part of the standard library; this can execute arbitrary code and is inherently unsafe\n`from numpy.core.multiarray import _reconstruct` imports a Python module that is not a part of the standard library; this can execute arbitrary code and is inherently unsafe\n`from numpy import ndarray` imports a Python module that is not a part of the standard library; this can execute arbitrary code and is inherently unsafe\n`from numpy import dtype` imports a Python module that is not a part of the standard library; this can execute arbitrary code and is inherently unsafe\nCall to `_reconstruct(...)` can execute arbitrary code and is inherently unsafe\nCall to `dtype('f8', False, True)` can execute arbitrary code and is inherently unsafe\nCall to `LinearRegression()` can execute arbitrary code and is inherently unsafe",
+    "detailed_results": {
+        "AnalysisResult": {
+            "NonStandardImports": "from numpy import dtype",
+            "OvertlyBadEval": "LinearRegression()"
+        }
+    }
+}

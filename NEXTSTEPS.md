@@ -17,7 +17,7 @@ Written for: the repo owner, planning what to add to the self-paced curriculum.
 - **SQL and databases.** The only database work is MongoDB in the SCAD notebooks.
 - **Software engineering.** Work is almost entirely in notebooks. There are no tests, no importable modules, and no pinned environment file.
 - **Deployment and MLOps.** Nothing covers serving a model, containerizing it, tracking experiments, or monitoring drift.
-- **Modern ML tooling.** Gradient boosting (XGBoost, LightGBM), hyperparameter search (Optuna), and probability calibration are not covered. This was checked from file names and headings only.
+- **Modern ML tooling.** XGBoost appears only inside the SHAP notebook, with no lesson on it. Gradient boosting tuning (XGBoost, LightGBM), hyperparameter search beyond `GridSearchCV` (Optuna), and probability calibration are not covered.
 - **Communication.** No lessons on presenting findings to a non-technical audience.
 
 ## Proposed new sections

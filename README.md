@@ -35,6 +35,7 @@ Folders are numbered roughly in order of learning, then application to real proj
 | `04` | Feature engineering, feature selection, resampling and regularization |
 | `05` | Machine learning: classification, decision trees, linear regression, time series, anomaly detection |
 | `06` | Additional topics: SHAP, PDP and ICE plots, explainable AI pipelines |
+| `07` | Statistics and experimentation: A/B testing |
 | `09` | Applied projects: Wingspan board game, stock and sales data, ETL, dashboards, binary analysis |
 | `Resources` | Reference material, including *An Introduction to Statistical Learning* (PDF) |
 
@@ -92,6 +93,12 @@ Folders are numbered roughly in order of learning, then application to real proj
 | `SHAP/IsolationForest_AnomalyDetection.ipynb` | Isolation Forest with SHAP explanations |
 | `PDPs and ICE Plots/PDPs_and_ICE_Plots.ipynb` | Partial dependence and individual conditional expectation plots |
 | `XAI Pipeline/XAI_Analysis_Pipeline_SHAP_IQ.ipynb` | Explainable AI pipeline using SHAP-IQ |
+
+### 07 - Statistics and Experimentation
+
+| Path | Description |
+|----------|-------------|
+| `A-B Testing.ipynb` | A/B testing with simulated data: two-proportion z-test, sample size, power, A/A tests, and the peeking problem |
 
 ### 09 - Applied Projects
 

@@ -99,6 +99,7 @@ Folders are numbered roughly in order of learning, then application to real proj
 | Path | Description |
 |----------|-------------|
 | `A-B Testing.ipynb` | A/B testing with simulated data: two-proportion z-test, sample size, power, A/A tests, and the peeking problem |
+| `Hypothesis Testing and Confidence Intervals.ipynb` | t-tests (one-sample, Welch, paired), confidence intervals, bootstrap intervals, power for t-tests, Type I error, and multiple testing corrections |
 
 ### 09 - Applied Projects
 
